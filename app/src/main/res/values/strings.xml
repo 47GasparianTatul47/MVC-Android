@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Arxitictura</string>
+    <string name="qusetion_text">2+2=4</string>
+    <string name="qusetion_text1">9+8=49</string>
+    <string name="qusetion_text2">10+10=20</string>
+    <string name="qusetion_text3">40+2=42</string>
+    <string name="qusetion_text4">7+2=15</string>
+    <string name="correct">Correct</string>
+    <string name="wrongAnswer">WrongAnswer</string>
+    <string name="corectToas">CorectToast</string>
+    <string name="incorrect_toast">IncorrectToast</string>
+</resources>
