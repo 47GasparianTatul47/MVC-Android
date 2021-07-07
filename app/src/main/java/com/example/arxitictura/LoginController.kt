@@ -9,6 +9,8 @@ class LoginController(iLoginView2: MainActivity) :ILoginController {
         val user = User(email, password)
         val loginCode = user.getValid()
 
+
+
         if (loginCode == 0 ){
             iLoginView.onLoginError("Please Enter Email")
 
